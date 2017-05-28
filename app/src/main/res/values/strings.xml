@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JobSchedulerExample</string>
+    <string name="schedule_job">Schedule job</string>
+    <string name="job_started">Job Started</string>
+    <string name="job_stop">All Job Stopped</string>
+    <string name="task_finish">Background Task Finished</string>
+    <string name="cancel_job">Cancel Jobs</string>
+    <string name="job_status">Current Job Status</string>
+</resources>
